@@ -1,0 +1,5 @@
+2023-08-24T10:23:02.4501162+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2023-08-24T10:23:02.4506156+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2023-08-24T10:23:02.4506654+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\Admin\source\repos\Logging\
+2023-08-24T10:23:02.5349771+07:00	FAIL	[Logging.Middlewares.MyMiddleware]	[100]	InvokeAsync fail Hello World
+2023-08-24T10:23:20.7957232+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application is shutting down...

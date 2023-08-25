@@ -1,0 +1,8 @@
+2023-08-21T19:38:04.7571333+07:00	INFO	[string]	[899]	Hello 992 33
+2023-08-21T19:38:04.8077421+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2023-08-21T19:38:04.8077939+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2023-08-21T19:38:04.8078094+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\Admin\source\repos\Logging\
+2023-08-21T19:39:36.1727386+07:00	INFO	[string]	[899]	Hello 992 33
+2023-08-21T19:39:36.2137186+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2023-08-21T19:39:36.2137845+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2023-08-21T19:39:36.2138040+07:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\Admin\source\repos\Logging\
